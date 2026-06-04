@@ -10,7 +10,7 @@ Previously, I completed a Bachelor's of Science in Physics at [Lahore University
 
 ---
 
-### Publications/Preprints
+## Research
 
 **[4]. Efficient simulation of noisy IQP circuits with amplitude-damping noise**  
 Shravan Shravan, Mohsin Raza, Ariel Shlosberg  
@@ -23,7 +23,7 @@ Contributed Talk at [_APS Global Summit 2025_](https://www.aps.org/events/2025/j
 [[arXiv]](https://arxiv.org/abs/2602.05223)
 
 **[2]. The Zeno and anti-Zeno effects: studying modified decay rates for spin-boson models with both strong and weak system-environment couplings**  
-Irfan Javed, Mohsin Raza 
+Irfan Javed, Mohsin Raza  
 [[arXiv]](https://arxiv.org/abs/2012.05911)
 
 **[1]. Impact of independent reservoirs on the quantum Zeno and anti-Zeno effects**  
