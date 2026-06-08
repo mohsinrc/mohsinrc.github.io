@@ -18,7 +18,7 @@ author:
   location         : "Albuquerque, NM, USA."
   employer         : "University of New Mexico"
   uri              :
-  email            : "mraza98@unm.edu"
+  email            : 
   arxiv            : "https://arxiv.org/a/raza_m_1.html"
   googlescholar    : "https://scholar.google.com/citations?user=Q3pdMbUAAAAJ&hl=en"
   github           : "mohsinrc"   # fix: was set to "academicpages" (the template default)
