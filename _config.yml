@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "sunrise"
 title                    : "Mohsin Raza"
 title_separator          : "-"
 name                     : &name "Mohsin Raza"
@@ -35,7 +35,7 @@ atom_feed:
   hide                   : true    # hides RSS feed footer link
 
 # SEO
-google_site_verification :
+google_site_verification : google-site-verification=SKMvwfi-yZE7bROIP5yfMdWFxVtDQji-77ieDp1nwys
 
 # Analytics - disabled
 analytics:
