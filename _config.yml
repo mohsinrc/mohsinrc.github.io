@@ -35,7 +35,7 @@ atom_feed:
   hide                   : true    # hides RSS feed footer link
 
 # SEO
-google_site_verification : google-site-verification=SKMvwfi-yZE7bROIP5yfMdWFxVtDQji-77ieDp1nwys
+google_site_verification : "0fYzNiowVEZUmgUUuQV3ScgtS068OYC6LvDWWeZdsd0"
 
 # Analytics - disabled
 analytics:
