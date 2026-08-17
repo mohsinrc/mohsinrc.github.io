@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise"
+site_theme               : "default"
 title                    : "Mohsin Raza"
 title_separator          : "-"
 name                     : &name "Mohsin Raza"
@@ -14,9 +14,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Mohsin Raza"
   pronouns         :
-  bio              : "PhD Student at the Center of Quantum Information and Control (CQuIC)"
+  bio              : ""
   location         : "Albuquerque, NM, USA."
-  employer         : "University of New Mexico"
+  employer         : "University of New Mexico (UNM)"
   uri              :
   email            : 
   arxiv            : "https://arxiv.org/a/raza_m_1.html"
